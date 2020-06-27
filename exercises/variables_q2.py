@@ -2,7 +2,7 @@
 # multiplication of the two numbers.
 
 
-print("This program will add the two values entered")
+print("This program will multiply the two values entered")
 value_a = input("Enter the first value ")
 value_b = input("Enter the second value ")
 
