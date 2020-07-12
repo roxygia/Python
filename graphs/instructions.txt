@@ -1,0 +1,8 @@
+#Install environmental variable:
+pip install virtualenv
+
+#Activate environmental variable:
+tutorial-env/Scripts/activate
+
+#install pandas and plotly from reuirements file:
+pip install -r requirements.txt
